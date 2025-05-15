@@ -12,6 +12,9 @@ node_modules/
 dist/
 build/
 
+#database files
+data/data.db
+
 # Ignore system files
 .DS_Store
 Thumbs.db
