@@ -18,3 +18,10 @@ data/data.db
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+old/
+playground.py
+data/
+plots/
+
+properties_cleaned.db
